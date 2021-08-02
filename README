@@ -1,0 +1,11 @@
+This purpose of this project was to host data and visualizations from the WeatherPy challenge in the Python API project on a website. I used html, CSS, and bootstrap
+for this project. This project has been deployed to Github Pages and can be accessed at this link: https://emilyz9392.github.io/web-design-challenge/
+
+The analysis done in this project focuses on the correlation between latitude and various weather conditions for over 500 cities around the world. on the home page, you can see the
+analysis of the four categories (cloudiness, wind speed, temperature, & humidity) visualized in scatter plots, and a high-level overview of the project. 
+
+There is a navigation bar at the top includes a drop down that will allow you to visit the other sections of the website. The Data section contains the table of cities and data used for the 
+analysis. The Plot section will allow you to drill down into a specific condition further to view the associated scatter plot in a larger view as well as a brief explaination
+of the analysis for that condition. The Comparison section will allow you to view all the scatterplots in a single page, similar to the home landing page but without the 
+analysis overview. You can also access each individual condition's page by using the buttons at the bottom of the home landing page. 
+If you adjust the size of your browser window, you can also see that the pages have been designed to respond to window size
